@@ -1,0 +1,27 @@
+{
+  "name": "travel-project",
+  "authors": [
+    "Natasha <seregina.natasha@gmail.com>"
+  ],
+  "description": "travel project website",
+  "main": "index.html",
+  "keywords": [
+    "project",
+    "travel",
+    "blog"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "bootstrap-social": "^5.1.1"
+  }
+}
